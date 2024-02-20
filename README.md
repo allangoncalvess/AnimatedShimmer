@@ -1,4 +1,4 @@
-# AnimatedAnimated
+# LoadingAnimatedShimmer
  Loading Screen with Shimmer Effect
 
  <div>
